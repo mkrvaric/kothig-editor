@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "kothing-editor@0.1.3",
+      "/home/forge/mfit.fitalert.me"
+    ]
+  ],
+  "_from": "kothing-editor@0.1.3",
+  "_id": "kothing-editor@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-aNUOoApUCDmEpIF+53sOHjgqxRkCszXTvw8sZAs37N4ux8wIG6dpvUpcQRGFJvcUpq3C9TfjVTAhscW1r2et5Q==",
+  "_location": "/kothing-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "kothing-editor@0.1.3",
+    "name": "kothing-editor",
+    "escapedName": "kothing-editor",
+    "rawSpec": "0.1.3",
+    "saveSpec": null,
+    "fetchSpec": "0.1.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/kothing-editor/-/kothing-editor-0.1.3.tgz",
+  "_spec": "0.1.3",
+  "_where": "/home/forge/mfit.fitalert.me",
+  "author": {
+    "name": "kothing"
+  },
+  "bugs": {
+    "url": "https://github.com/kothing/kothing-editor/issues"
+  },
+  "description": "A powerful WYSIWYG rich text web editor by pure javascript",
+  "homepage": "https://github.com/kothing/kothing-editor#readme",
+  "keywords": [
+    "kothing-editor",
+    "rich-text-editor",
+    "wysiwyg-editor",
+    "editor"
+  ],
+  "license": "ISC",
+  "main": "lib/editor.js",
+  "name": "kothing-editor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kothing/kothing-editor.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
